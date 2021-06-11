@@ -45,7 +45,3 @@ Packages:
 	h. ISLR
 	i. ggplot2movies
 	j. fivethirtyeight
-
-*Windows: Pete, Judy, Raj, Tom
-*Mac: Jason, Larry
-*Linux: 
