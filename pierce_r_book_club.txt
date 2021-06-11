@@ -1,0 +1,51 @@
+Using {moderndive}
+
+6/29, 7/13, 7/27, 8/10, 8/24
+
+Date: Topic (Reading)
+
+6/29: Initial Meeting (Ch 1)
+	a. "syllabus"/timeline
+	b. Setting Up Machines
+		i. R
+		ii. RStudio
+		iii. Packages*
+	c. Getting acquainted with RStudio
+	d. Exploring nycflights13
+		i. View
+		ii. dplyr::glimpse()
+		iii. knitr::kable()
+		iv. descriptive/summary statistics
+
+
+7/13: Wrangling/Data Viz (Ch 2 - 3)
+
+7/27: Data Viz (Ch 3)
+
+8/10: Regression (basic and multiple) (Ch 5 - 6)
+
+8/24: Inference (Ch 7 - 9)
+
+Packages:
+	a. tidyverse
+		i. ggplot2 (graphing)
+		ii. tibble (format)
+		iii. tidyr (wrangling)
+		iv. readr (import data)
+		v. purr (functional programming)
+		vi. dplyr (wrangling)
+		vii. stringr (working with strings)
+		viii. forcats (working with factors)
+	b. moderndive
+	c. infer
+	d. nycflights13
+	e. knitr
+	f. skimr
+	g. gapminder
+	h. ISLR
+	i. ggplot2movies
+	j. fivethirtyeight
+
+*Windows: Pete, Judy, Raj, Tom
+*Mac: Jason, Larry
+*Linux: 
