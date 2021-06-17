@@ -1,16 +1,4 @@
----
-title: "Summer 2021 R Workshop"
-subtitle: "ModernDive"
-author: "N. Paterno"
-output: 
-  html_document:
-    css: style.css
 
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 *** 
 ## Welcome!
 
