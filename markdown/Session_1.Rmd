@@ -1,0 +1,19 @@
+---
+title: "Session 1"
+author: "N. Paterno"
+date: "6/29/2021"
+output: pdf_document
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(nycflights13)
+```
+
+```{r}
+knitr::kable(mtcars)
+```
+
