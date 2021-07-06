@@ -19,8 +19,22 @@ Date: Topic (Reading)
 
 
 7/13: Wrangling/Data Viz (Ch 2 - 3)
+  a. Data Viz
+    i. scatterplot
+    ii. linegraph
+    iii. histogram
+    iv. boxplot
+    v. barplot
+  b. Wrangling
+    i. dplyr: pipe, filter, summarize, group_by, mutate, arrange
 
 7/27: Data Viz (Ch 3)
+  a. "Presentation Ready" plots
+    i. labels
+    ii. colors
+    iii. text
+    iv. plot/panel
+    v. guides
 
 8/10: Regression (basic and multiple) (Ch 5 - 6)
 
