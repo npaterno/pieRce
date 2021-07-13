@@ -28,3 +28,9 @@ Zoom sessions will be recorded and the videos will be uploaded to the Teams fold
 * [Moriah Taylor](https://www.twitch.tv/moriah_streamR): Moriah streams once a week to work on her TidyTuesday projects. 
 * [David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ): David usually streams once per week and has also participated in \#SLICED.
 * [Julia Silge](https://www.youtube.com/channel/UCTTBgWyJl2HrrhQOOc710kA): Julia also streams her TidyTuesday projects. She usually focuses on modeling in addition to data viz. She has also been involved with \#SLICED.
+
+#### Session 2 Resources
+* [R Colors](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf)
+* [ggplot Shapes](https://www.google.com/search?q=ggplot2+shapes&sxsrf=ALeKk034-Ctt49yx7pGC2gw5C47Pp5Z1ow:1626207078767&tbm=isch&source=iu&ictx=1&fir=lUw3nrgRKV8ynM%252CIUJ7_WAFJeseUM%252C_&vet=1&usg=AI4_-kTnTzMHlYnJgmnzjPDlko-F9bTTJQ&sa=X&ved=2ahUKEwjq4Yq67eDxAhXHjp4KHTeiDxoQ9QF6BAgSEAE&biw=1502&bih=710#imgrc=lUw3nrgRKV8ynM)
+* [R4DS: TidyTuesday](https://github.com/rfordatascience/tidytuesday): you can also search Twitter for \#tidytuesday
+* [ggplot2 workshop](https://www.youtube.com/watch?v=h29g21z0a68): Hosted by Thomas Lin Pedersen who helped write the ggplot2 package
