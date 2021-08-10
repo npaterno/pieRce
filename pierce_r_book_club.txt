@@ -43,8 +43,8 @@ Date: Topic (Reading)
     i. One numeric variable
     ii. One categorical variable
   b. Multiple regression
-    i. One numeric and one categorical
-    ii. Two numeric
+    i. One numeric variable and one categorical variable
+    ii. Two numeric variables
 
 Packages:
 	a. tidyverse
