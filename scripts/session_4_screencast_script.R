@@ -87,3 +87,6 @@ species_models$fit %>%
   map(summary) %>% 
   map_df(broom::tidy) %>% 
   mutate(species = c(rep("Adelie", 2), rep("Chinstrap",2), rep("Gentoo", 2)), .before = term)
+
+get_correlation(data = mult_data %>% group_by(species), 
+                formula = body_mass_g ~ bill_length_mm)
