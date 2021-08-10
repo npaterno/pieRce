@@ -39,6 +39,12 @@ Date: Topic (Reading)
 8/10: Regression (basic and multiple) (Ch 5 - 6)
 
 8/24: Inference (Ch 7 - 9)
+  a. Simple linear regression
+    i. One numeric variable
+    ii. One categorical variable
+  b. Multiple regression
+    i. One numeric and one categorical
+    ii. Two numeric
 
 Packages:
 	a. tidyverse
