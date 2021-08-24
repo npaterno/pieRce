@@ -37,13 +37,16 @@ Date: Topic (Reading)
     v. guides
 
 8/10: Regression (basic and multiple) (Ch 5 - 6)
-
-8/24: Inference (Ch 7 - 9)
   a. Simple linear regression
     i. One numeric variable
     ii. One categorical variable
   b. Multiple regression
     i. One numeric variable and one categorical variable
+
+8/24: Inference (Ch 7 - 9)
+  a. Sampling - generating sampling distributions
+  b. Confidence intervals with bootstrap distributions
+  c. Hypothesis tests
 
 Packages:
 	a. tidyverse
