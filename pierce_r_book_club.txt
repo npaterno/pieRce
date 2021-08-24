@@ -4,7 +4,7 @@ Using {moderndive}
 
 Date: Topic (Reading)
 
-6/29: Initial Meeting (Ch 1)
+6/29: Initial Meeting (Ch 1) {Zoom Recording in Teams folder}
 	a. "syllabus"/timeline
 	b. Setting Up Machines
 		i. R
@@ -18,7 +18,7 @@ Date: Topic (Reading)
 		iv. descriptive/summary statistics
 
 
-7/13: Wrangling/Data Viz (Ch 2 - 3)
+7/13: Wrangling/Data Viz (Ch 2 - 3) {Screencast: https://youtu.be/S7Um8kmHKvc}
   a. Data Viz
     i. scatterplot
     ii. linegraph
@@ -28,7 +28,7 @@ Date: Topic (Reading)
   b. Wrangling
     i. dplyr: pipe, filter, summarize, group_by, mutate, arrange
 
-7/27: Data Viz (Ch 3)
+7/27: Data Viz (Ch 3) {Screencast: https://youtu.be/ocl4KwkUdeA}
   a. "Presentation Ready" plots
     i. labels
     ii. colors
@@ -36,14 +36,14 @@ Date: Topic (Reading)
     iv. plot/panel
     v. guides
 
-8/10: Regression (basic and multiple) (Ch 5 - 6)
+8/10: Regression (basic and multiple) (Ch 5 - 6) {Screencast: https://youtu.be/Hs31jZuLGrw}
   a. Simple linear regression
     i. One numeric variable
     ii. One categorical variable
   b. Multiple regression
     i. One numeric variable and one categorical variable
 
-8/24: Inference (Ch 7 - 9)
+8/24: Inference (Ch 7 - 9) {Screncast: https://youtu.be/BPPkK3F0FQE}
   a. Sampling - generating sampling distributions
   b. Confidence intervals with bootstrap distributions
   c. Hypothesis tests
